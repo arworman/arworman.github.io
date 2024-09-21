@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arworman.github.io/sitemap.html.gz
+Sitemap: https://arworman.github.io/app/sitemap.html.gz
+Sitemap: https://arworman.github.io/assets/sitemap.html.gz
+Sitemap: https://arworman.github.io/css/sitemap.html.gz
+Sitemap: https://arworman.github.io/data/sitemap.html.gz
+Sitemap: https://arworman.github.io/includes/sitemap.html.gz
+Sitemap: https://arworman.github.io/item/sitemap.html.gz
+Sitemap: https://arworman.github.io/src/sitemap.html.gz
